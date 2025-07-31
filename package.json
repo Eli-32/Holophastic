@@ -1,0 +1,15 @@
+{
+  "name": "holophastic",
+  "version": "1.0.0",
+  "description": "A simple static website.",
+  "main": "script.js",
+  "scripts": {
+    "start": "serve -s ."
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
