@@ -7,6 +7,7 @@
     "start": "serve -s ."
   },
   "dependencies": {
+    "lil-gui": "^0.20.0",
     "serve": "^14.2.0"
   },
   "keywords": [],
